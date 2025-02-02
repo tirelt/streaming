@@ -1,7 +1,10 @@
 # Local streaming
 
 Local streaming stack
+
 All credits to [zerodya](https://zerodya.net/self-host-jellyfin-media-streaming-stack/), we are just following his tutorial and adding useful tips for our setup.
+
+DISCLAIMER: This article serves educational purposes only.
 
 ## Stack control / docker
 
